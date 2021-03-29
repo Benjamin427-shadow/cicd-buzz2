@@ -1,0 +1,15 @@
+appdirs==1.4.4
+bandit==1.7.0
+colorama==0.4.4
+distlib==0.3.1
+filelock==3.0.12
+gitdb==4.0.5
+GitPython==3.1.13
+pbr==5.5.1
+PyYAML==5.4.1
+six==1.15.0
+smmap==3.0.5
+stevedore==3.3.0
+virtualenv==20.4.3
+virtualenvwrapper-win==1.2.6
+pytest==6.2.2
